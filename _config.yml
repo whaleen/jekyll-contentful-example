@@ -1,0 +1,17 @@
+title: Contentful Blog
+email: boris@contentful.com
+description: The Contentful Blog as a Jekyll static site.
+baseurl: ""
+url: "https://www.contentful.com"
+twitter_username: contentful
+github_username:  contentful
+
+markdown: kramdown
+
+contentful:
+  preview: No
+  production_access_token: '133e184a761cd3570263bd3d439e7169e891bef6eaf18220d7506036c6120638'
+  preview_access_token: '98a10ab561f4bd76b2ccd0b68eb466be0ef0be965b221c819023b93195daee90'
+  space: 'gkytkev7d4e5'
+  content_types:
+   - "5fhzMTnxFeSCwCSWaAIAak"
