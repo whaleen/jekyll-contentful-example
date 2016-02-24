@@ -15,3 +15,6 @@ contentful:
   space: 'gkytkev7d4e5'
   content_types:
    - "5fhzMTnxFeSCwCSWaAIAak"
+
+# Exclude from _site directory
+exclude: [Gemfile, Gemfile.lock, Rakefile]
